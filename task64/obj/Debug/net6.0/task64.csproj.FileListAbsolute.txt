@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/bin/Debug/net6.0/task64
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/bin/Debug/net6.0/task64.deps.json
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/bin/Debug/net6.0/task64.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/bin/Debug/net6.0/task64.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/bin/Debug/net6.0/task64.pdb
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/refint/task64.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.pdb
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/task64.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar9/task64/obj/Debug/net6.0/ref/task64.dll
